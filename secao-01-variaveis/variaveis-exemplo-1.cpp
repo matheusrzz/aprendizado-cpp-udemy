@@ -14,7 +14,7 @@ using namespace std;
 
 int main(){
 	
-	// Pata usarmos acentos
+	// Para usarmos acentos
 	setlocale(LC_ALL,"");
 	
 	//Variaveis são espaços na memória onde vamos guardar valores temporariamente
